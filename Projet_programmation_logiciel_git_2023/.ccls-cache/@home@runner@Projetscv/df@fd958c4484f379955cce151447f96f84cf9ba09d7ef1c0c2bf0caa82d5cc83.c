@@ -1,0 +1,4 @@
+message : commit3
+predecessor : 669ae97c45b9c11dba58bd5fe1f3be775fc4ea8e655bc88c6593cb4bdc41ff83
+
+tree : 7f593055bd551d9f46f3f8593d33b2979f04ea97af5aa5dbe9ba2eaa73e53700
